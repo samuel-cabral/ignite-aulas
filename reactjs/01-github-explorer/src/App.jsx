@@ -2,7 +2,7 @@ import { Tweet } from './components/Tweet';
 
 function App() {
   return (
-    <Tweet text="Hello React"/>
+    <Tweet text="Good Morning!"/>
   );
 }
 
