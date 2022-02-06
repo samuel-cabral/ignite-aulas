@@ -1,10 +1,10 @@
-import { Tweet } from './components/Tweet';
+import { RepositoryList } from './components/RepositoryList';
 
 import './styles/global.scss';
 
 function App() {
   return (
-    <Tweet text="Good Morning!"/>
+    <RepositoryList />
   );
 }
 
